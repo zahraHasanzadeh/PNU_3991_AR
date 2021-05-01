@@ -11,5 +11,6 @@
 
 - [رزومه](https://zahrahasanzadeh.github.io/#resume)
 
-- [انگیزش نامه](https://zahrahasanzadeh.github.io/#about_me)
+- [انگیزش نامه](https://zahrahasanzadeh.github.io/#sop)
+- [گواهینامه](https://zahrahasanzadeh.github.io/#certif)
 </div>
